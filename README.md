@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Sales_Data_In_LookML</h3>
+  <h3 align="center">Sales Data In LookML</h3>
 
   <p align="center">
     A fully dockerized ELT pipeline project, using Postgres, MYSQL, dbt, Apache Airflow,  Redash and Superset.
