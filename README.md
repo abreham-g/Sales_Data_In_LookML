@@ -67,10 +67,8 @@ A fully dockerized using a docker-compose file ELT pipeline using MySQL, Postgre
 Tech Stack used in this project
 * [Postgres](https://www.postgresql.org/)
 * [MYSQL](https://www.mysql.com/)
-* [Apache Airflow](https://airflow.apache.org/)
-* [dbt](https://www.getdbt.com/)
 * [Redash](https://redash.io/)
-* [Superset](https://superset.apache.org/)
+* [Snowflake](#)
 
 
 
